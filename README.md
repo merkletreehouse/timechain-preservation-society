@@ -5,4 +5,5 @@ A free, anonymous collective to educate on preserving the Bitcoin timechain by f
 - **Proposals**: See [proposals](https://github.com/merkletreehouse/timechain-preservation-society/tree/main/proposals) folder.
 - **Votes**: See [votes](https://github.com/merkletreehouse/timechain-preservation-society/tree/main/votes) folder.
 - **Financials**: See [financials](https://github.com/merkletreehouse/timechain-preservation-society/tree/main/financials) folder.
-Join us on Signal: [https://signal.group/#CjQKIDlIqEuG3pojJru2sEVy7hupibKGJ5gKRlHtRmHOt8IVEhDty4EXxTL4wmMtQnkPB7IP].
+
+Join us on Signal: https://signal.group/#CjQKIDlIqEuG3pojJru2sEVy7hupibKGJ5gKRlHtRmHOt8IVEhDty4EXxTL4wmMtQnkPB7IP.
