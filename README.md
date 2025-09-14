@@ -3,6 +3,6 @@ A free, anonymous collective to educate on preserving the Bitcoin timechain by f
 - **Immutable Rules**: [List here or link to rules file]
 - **Mutable Rules**: [List here or link to rules file]
 - **Proposals**: See [proposals](https://github.com/merkletreehouse/timechain-preservation-society/tree/main/proposals) folder.
-- **Votes**: See [votes](#votes) folder.
+- **Votes**: See [votes](https://github.com/merkletreehouse/timechain-preservation-society/tree/main/votes) folder.
 - **Financials**: See [financials](#financials) folder.
 Join us on Signal: [link to group].
