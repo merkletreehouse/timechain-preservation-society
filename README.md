@@ -3,6 +3,6 @@ A free, anonymous collective to educate on preserving the Bitcoin timechain by f
 - **Immutable Rules**: [List here or link to rules file]
 - **Mutable Rules**: [List here or link to rules file]
 - **Proposals**: See [proposals](#proposals) folder.
-- **Votes**: See [votes](#votes) folder.
+- **Votes**: See [votes][(#votes)](https://signal.group/#CjQKIDlIqEuG3pojJru2sEVy7hupibKGJ5gKRlHtRmHOt8IVEhDty4EXxTL4wmMtQnkPB7IP) folder.
 - **Financials**: See [financials](#financials) folder.
 Join us on Signal: [[link to group]](https://signal.group/#CjQKIDlIqEuG3pojJru2sEVy7hupibKGJ5gKRlHtRmHOt8IVEhDty4EXxTL4wmMtQnkPB7IP).
