@@ -1,7 +1,7 @@
 # Timechain Preservation Society
 A free, anonymous collective to educate on preserving the Bitcoin timechain by fighting non-financial spam (e.g., wash-traded shitcoins).
-- **Immutable Rules**: [List here or link to rules file]
-- **Mutable Rules**: [List here or link to rules file]
+- **Immutable Rules**: [Link](https://github.com/merkletreehouse/timechain-preservation-society/blob/main/immutable-rules.md)
+- **Mutable Rules**: [Link](https://github.com/merkletreehouse/timechain-preservation-society/blob/main/mutable-rules.md)
 - **Proposals**: See [proposals](https://github.com/merkletreehouse/timechain-preservation-society/tree/main/proposals) folder.
 - **Votes**: See [votes](https://github.com/merkletreehouse/timechain-preservation-society/tree/main/votes) folder.
 - **Financials**: See [financials](https://github.com/merkletreehouse/timechain-preservation-society/tree/main/financials) folder.
